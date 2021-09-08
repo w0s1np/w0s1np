@@ -1,28 +1,8 @@
-### Hi there 👋 I'm w0s1np   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w0s1np&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋 I'm w0s1np[![img](https://camo.githubusercontent.com/7eeb54c0bb543b4a517f41fb88e67ae0871c71b240077f1a108982a5ff22b337/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d773073316e70267468656d653d746f6b796f6e69676874)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**w0s1np/w0s1np** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱WEB摸鱼/JAVA WEB Learning
 
-Here are some ideas to get you started:
+座右铭：苟有恒，何为三更起五更眠
 
-- 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning ...
-
-- 👯 I’m looking to collaborate on ...
-
-- 🤔 I’m looking for help with ...
-
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
-  -->
-
-  🌱 web摸鱼/JAVA WEB Learning
-
-  座右铭：苟有恒，何为三更起五更眠
 
