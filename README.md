@@ -1,4 +1,4 @@
-### Hi there 👋 I'm w0s1np
+### Hi there 👋 I'm w0s1np   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w0s1np&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **w0s1np/w0s1np** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w0s1np&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
   🌱 web摸鱼/JAVA WEB Learning
 
   座右铭：苟有恒，何为三更起五更眠
+
