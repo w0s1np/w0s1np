@@ -3,5 +3,6 @@
 
 - 🌱 WEB摸鱼/JAVA WEB Learning
 
-座右铭：苟有恒，何为三更眠五更起
+座右铭：Just let me be myself
+        苟有恒，何为三更眠五更起
 
